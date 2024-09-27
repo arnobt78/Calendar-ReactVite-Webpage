@@ -1,7 +1,7 @@
 
 ## Calendar-ReactVite-Webpage
 
-Calendar App is a React-Vite Calendar To-Do List project, using Calendar, select any day of month of year, set the clock hour for the day to remind the plan, also plan can be changed and edited with delete options and deploy on Vercel.
+Calendar App is a React-Vite Calendar To-Do Event project, using Calendar, select any day of month of year, set the clock hour for the day to remind the event, also event can be changed and edited with delete options and deploy on Vercel.
 
 **Note: To check this web app live, click here:** https://calendar-arnob.vercel.app/
 
