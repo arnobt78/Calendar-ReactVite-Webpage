@@ -3,19 +3,19 @@
 
 ## Calendar-ReactVite-Webpage
 
-Calendar App is a React-Vite Calendar To-Do Event project, using Calendar, select any day of month of year, set the clock hour for the day to remind the event, also event can be changed and edited with delete options and deploy on Vercel.
+Calendar App is a React-Vite Calendar To-Do Event project, using Calendar, select any day of the month of the year, and set the clock hour for the day to remember the event, also event can be changed and edited with delete options and deploy on Vercel.
 
 **Note: To check this web app live, click here:** https://calendar-arnob.vercel.app/
 
-## To Install Dependences
+## To Install Dependencies
 
-Before launching this web application, be sure to install all required dependencies, which are listed in the package.json file.
+Before you launch this web application, please make sure to install all required dependencies, which are listed in the package.json file.
 
-To install all dependences, run this command from your project folder: `npm install`
+To install all dependencies, run this command from your project folder: `npm install`
 
 ## To Install NodeJS
 
-Make sure you have NodeJS installed in your machine first, The installation instructions are here: https://nodejs.org/en/
+Make sure you have NodeJS installed on your machine first, The installation instructions are here: https://nodejs.org/en/
 
 Run your project: `npm run dev`
 
